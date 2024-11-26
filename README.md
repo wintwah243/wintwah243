@@ -1,13 +1,41 @@
-<h2 align="left">Hi 👋! I'am WintWah, a passionate software engineer, with a love for App Development and Web Development...</h2>
+# 🌟 Hi there! I'm WintWah 👋
 
-###
+Welcome to my GitHub profile! I am a **Software Engineer** with a passion for **App Development** and **Web Development**.  
+I love building creative and user-friendly projects that make a difference.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🚀 About Me
+- 💻 I specialize in **JavaScript**, **ReactJS**, **React Native**, **Node.js**, and **Express**.
+- 📂 I work with databases like **MySQL** and craft beautiful UIs using **HTML** and **CSS**.
+- 🌱 Currently exploring **TypeScript** and advanced **React Native** functionalities.
+- 🛠️ I enjoy creating apps and websites that enhance user experience and solve real-world problems.
+
+---
+
+## 🛠️ Skills
+
+### Languages & Frameworks
+| Skill           | Progress |  
+|------------------|----------|  
+| JavaScript       | ![JavaScript](https://progress-bar.dev/90) |  
+| ReactJS          | ![ReactJS](https://progress-bar.dev/85) |  
+| React Native     | ![React Native](https://progress-bar.dev/80) |  
+| Node.js & Express| ![Node.js](https://progress-bar.dev/75) |  
+| HTML & CSS       | ![HTML & CSS](https://progress-bar.dev/95) |  
+| MySQL            | ![MySQL](https://progress-bar.dev/70) |  
+
+---
+
+## 📂 Featured Projects
+### 🌟 [StoryLab](https://github.com/your-username/storylab)
+An app featuring **high-quality interactive stories** for adults. Built with **React Native** and designed with user experience in mind.
+
+### 🎨 [My Portfolio Website](https://your-portfolio-link)
+Showcasing my skills, projects, and educational background with a **light/dark theme toggle**.  
+
+---
+
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
@@ -24,9 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  
 </div>
 
 ###
@@ -42,8 +68,70 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
 ###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+## ✨ Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://twitter.com/yourprofile" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter"></a>
+  <a href="mailto:your-email@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail"></a>
+</p>
+
+---
+
+## 🖼️ My Workspace
+<p align="center">
+  <img src="https://img.shields.io/badge/MacBook%20Air-Silver?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Air">
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
+
+---
+
+## 🛠️ Tools I Use
+<p align="center">
+  <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MySQL-orange?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+---
+
+## 🎉 Fun Fact  
+✨ I believe **consistency** is the key to success! Slow and steady wins the race. 🚀
+
+---
+
+## ✨ Animation!
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation">
+</p>
