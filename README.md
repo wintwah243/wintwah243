@@ -13,19 +13,7 @@ I love building creative and user-friendly projects that make a difference.
 
 ---
 
-## 🛠️ Skills
 
-### Languages & Frameworks
-| Skill           | Progress |  
-|------------------|----------|  
-| JavaScript       | ![JavaScript](https://progress-bar.dev/90) |  
-| ReactJS          | ![ReactJS](https://progress-bar.dev/85) |  
-| React Native     | ![React Native](https://progress-bar.dev/80) |  
-| Node.js & Express| ![Node.js](https://progress-bar.dev/75) |  
-| HTML & CSS       | ![HTML & CSS](https://progress-bar.dev/95) |  
-| MySQL            | ![MySQL](https://progress-bar.dev/70) |  
-
----
 
 ## 📂 Featured Projects
 ### 🌟 [StoryLab](https://github.com/your-username/storylab)
