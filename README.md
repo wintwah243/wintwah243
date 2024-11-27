@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I am a **Software Engineer** with a passion for **App Development** and **Web Development**.  
 I love building creative and user-friendly projects that make a difference.
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation">
+<p align="left">
+  <img src="https://i.pinimg.com/originals/62/6b/8b/626b8b4be06e78c917e93526d1d74025.gif" width="400" alt="Running Cat Animation">
 </p>
 
 
@@ -12,9 +12,6 @@ I love building creative and user-friendly projects that make a difference.
 - 📂 I work with databases like **MySQL** and craft beautiful UIs using **HTML** and **CSS**.
 - 🌱 Currently exploring **TypeScript** and advanced **React Native** functionalities.
 - 🛠️ I enjoy creating apps and websites that enhance user experience and solve real-world problems.
-
-
-
 
 ## 🖼️ My Workspace
 <p align="center">
@@ -32,8 +29,3 @@ I love building creative and user-friendly projects that make a difference.
   <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 </p>
-
-
----
-
-
