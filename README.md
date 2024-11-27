@@ -56,42 +56,6 @@ Showcasing my skills, projects, and educational background with a **light/dark t
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-## ✨ Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/yourprofile" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter"></a>
-  <a href="mailto:your-email@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail"></a>
-</p>
 
 ---
 
@@ -112,10 +76,6 @@ Showcasing my skills, projects, and educational background with a **light/dark t
   <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
----
-
-## 🎉 Fun Fact  
-✨ I believe **consistency** is the key to success! Slow and steady wins the race. 🚀
 
 ---
 
