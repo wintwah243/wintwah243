@@ -15,19 +15,6 @@ I love building creative and user-friendly projects that make a difference.
 
 
 
-## 📂 Featured Projects
-### 🌟 [StoryLab](https://github.com/your-username/storylab)
-An app featuring **high-quality interactive stories** for adults. Built with **React Native** and designed with user experience in mind.
-
-### 🎨 [My Portfolio Website](https://your-portfolio-link)
-Showcasing my skills, projects, and educational background with a **light/dark theme toggle**.  
-
----
-
-###
-
-
----
 
 ## 🖼️ My Workspace
 <p align="center">
