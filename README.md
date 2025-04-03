@@ -7,7 +7,7 @@
 
 
 - 💻 I specialize in **JavaScript**, **ReactJS**, **React Native**, **Node.js**, and **Express**.
-- 📂 I work with databases like **MySQL** and craft beautiful UIs using **HTML** and **CSS**.
+- 📂 I work with databases like **MySQL & MongoDB** and craft beautiful UIs using **Figma**.
 - 🌱 Currently exploring **TypeScript** and advanced **React Native** functionalities.
 
 
