@@ -8,6 +8,5 @@
 
 - 💻 I specialize in **JavaScript**, **ReactJS**, **React Native**, **Node.js**, and **Express**.
 - 📂 I work with databases like **MySQL & MongoDB** and craft beautiful UIs using **Figma**.
-- 🌱 Currently exploring **TypeScript**, **TensorFlowJS** and advanced **React Native** functionalities.
-
+- 🌱 I'am also exploring **TensorFlow** for AI-integrated projects.
 
