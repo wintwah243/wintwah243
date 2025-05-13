@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=333&center=true&vCenter=true&width=435&lines=Connecting+to+My+Github+........." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC0CB&center=true&vCenter=true&width=435&lines=Connecting+to+My+Github+........." />
 
  **Software Engineering Student** with a passion for **App Development** and **Web Development**.  
 <p align="left">
