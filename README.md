@@ -1,12 +1,14 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC0CB&center=true&vCenter=true&width=435&lines=Connecting+to+My+Github+........." />
+Shi is here 👋
 
- **Software Engineering Student** with a passion for **App Development** and **Web Development**.  
-<p align="left">
-  <img src="https://i.pinimg.com/originals/a9/68/27/a96827aa75c09ba6c6dcf38b8f6daa90.gif" width="400" alt="Running Cat Animation">
-</p>
+I'm a software engineer student, tech enthusiast and global learning enthusiast.  
+
+My social links:  
+- 📧 Email: wahwint72@gmail.com
+- 🔗 LinkTree: https://linktr.ee/shishii24
+- 💬 LinkedIn: http://linkedin.com/in/wint-wah-386240307  
+- 🌐 Portfolio: https://shiportfolio.onrender.com
+
+Feel free to connect or just to say hello—I'd love to connect!
 
 
-- 💻 I specialize in **JavaScript**, **ReactJS**, **React Native**, **Node.js**, and **Express**.
-- 📂 I work with databases like **MySQL & MongoDB** and craft beautiful UIs using **Figma**.
-- 🌱 I'm also exploring **TensorFlow** for AI-integrated projects.
 
