@@ -1,6 +1,6 @@
 Shi is here 👋
 
-I'm a software engineer student, tech enthusiast and global learning enthusiast.  
+I'm a software engineering student, tech enthusiast and global learning enthusiast.  
 
 My social links:  
 - 📧 Email: wahwint72@gmail.com
