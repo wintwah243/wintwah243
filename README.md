@@ -1,8 +1,7 @@
 # Shi is here 👋
 * I'm a software engineering student & a tech enthusiast.  
 * Currently a fourth-year CS student at UCSY.   
-* Finished real-world job simulation on Forage as a front-end software engineer through the SkyScanner virtual internship program.
-
+  
 My social links:  
 - 📧 Email: wahwint72@gmail.com
 - 🔗 LinkTree: https://linktr.ee/shishii24
