@@ -1,17 +1,11 @@
-<table style="border: none;">
-  <tr>
-    <td style="border: none; vertical-align: top;">
-      <h1>Shi is here 👋</h1>
-      <ul>
-        <li>I'm a software engineering student & a tech enthusiast.</li>
-        <li>Currently a fourth-year CS student at UCSY.</li>
-      </ul>
-    </td>
-    <td style="border: none; padding-left: 20px;">
-      <img src="https://i.pinimg.com/originals/a9/68/27/a96827aa75c09ba6c6dcf38b8f6daa90.gif" width="140" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 15px;">
+  <h1 style="margin: 0; align-items: center;">Shi is here <img src="https://i.pinimg.com/originals/a9/68/27/a96827aa75c09ba6c6dcf38b8f6daa90.gif" width="150" alt="Coding GIF"></h1>
+</div>
+
+<ul>
+  <li>I'm a software engineering student & a tech enthusiast.</li>
+  <li>Currently a fourth-year CS student at UCSY.</li>
+</ul>
 
 ---
 
