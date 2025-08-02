@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; gap: 15px;">
-  <h1 style="margin: 0; align-items: center;">Shi is here <img src="https://i.pinimg.com/originals/a9/68/27/a96827aa75c09ba6c6dcf38b8f6daa90.gif" width="150" alt="Coding GIF"></h1>
+  <h1 style="margin: 0; align-items: center;">Shi is here 🌖 <img src="https://i.pinimg.com/originals/fe/32/71/fe3271c2f92d9d098bd5a3281eb889e5.gif" width="150" alt="Coding GIF"> </h1>
 </div>
 
 <ul>
