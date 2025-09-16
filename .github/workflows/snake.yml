@@ -40,5 +40,4 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.SNAKE}}
+          personal_token: ${{ secrets.SNAKE }}
