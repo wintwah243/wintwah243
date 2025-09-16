@@ -14,21 +14,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Get repo content
+      # Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate Snake SVG for both light and dark mode
-      - name: Generate Snake Animation
+      # Generate light mode Snake
+      - name: Generate Snake Light Mode
         uses: Platane/snk@v3
         with:
           github_user_name: wintwah243
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake.gif
+          outputs: dist/snake.svg,dist/snake.gif
+          dark_mode: false
 
-      # Push the generated files to the output branch
+      # Generate dark mode Snake
+      - name: Generate Snake Dark Mode
+        uses: Platane/snk@v3
+        with:
+          github_user_name: wintwah243
+          outputs: dist/snake-dark.svg,dist/snake-dark.gif
+          dark_mode: true
+
+      # Push generated files to the output branch
       - name: Push GitHub Pages content
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
