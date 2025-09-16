@@ -2,30 +2,34 @@ name: Generate Snake
 
 on:
   schedule:
-    # every 12 hours
+    # Runs every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
-
-# give write permission so the action can push the output branch
-permissions:
-  contents: write
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
 
-      - name: Generate snake (svg + gif)
+    steps:
+      # Get repo content
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Generate Snake SVG for both light and dark mode
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          # outputs: svg and gif (gif is optional but handy)
-          outputs: dist/snake.svg dist/snake.gif
-          theme: auto
+          github_user_name: wintwah243
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif
 
-      - name: Push `dist` to output branch
+      # Push the generated files to the output branch
+      - name: Push GitHub Pages content
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
