@@ -1,43 +1,34 @@
+
 name: Generate Snake
 
 on:
   schedule:
-    # Runs every 12 hours
+    # every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+# give write permission so the action can push the output branch
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      # Checkout the repository
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      # Generate light mode Snake
-      - name: Generate Snake Light Mode
+      - name: Generate snake (svg + gif)
         uses: Platane/snk@v3
         with:
-          github_user_name: wintwah243
-          outputs: dist/snake.svg,dist/snake.gif
-          dark_mode: false
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg dist/snake.gif
+          theme: auto
 
-      # Generate dark mode Snake
-      - name: Generate Snake Dark Mode
-        uses: Platane/snk@v3
-        with:
-          github_user_name: wintwah243
-          outputs: dist/snake-dark.svg,dist/snake-dark.gif
-          dark_mode: true
-
-      # Push generated files to the output branch
-      - name: Push GitHub Pages content
+      - name: Push `dist` to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          personal_token: ${{ secrets.SNAKE }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
