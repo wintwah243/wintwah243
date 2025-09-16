@@ -10,6 +10,12 @@
 
 ---
 
+<!-- GitHub contribution-snake -->
+![GitHub Snake Light](https://raw.githubusercontent.com/wintwah243/wintwah243/output/snake.svg%20dist/snake.gif)
+
+
+---
+
 **My social links:**  
 - 📧 Email: wahwint72@gmail.com  
 - 🔗 LinkTree: [https://linktr.ee/shishii24](https://linktr.ee/shishii24)  
