@@ -14,9 +14,17 @@
 
 ---
 
+**Hackathon Participation** 
+<ul>
+  <li>HackAtom Myanmar 2024 (Nuclear Science Hackathon) - Participant</li>
+  <li>Venture Base Hackathon 2025 - First Runner-Up</li>
+  <li>Code2Career Hackathon 2025 - Ongoing</li>
+</ul>
+
+---
+
 **My social links:**  
 - 📧 Email: wahwint72@gmail.com  
-- 🔗 LinkTree: [https://linktr.ee/shishii24](https://linktr.ee/shishii24)  
 - 💬 LinkedIn: [http://linkedin.com/in/wint-wah-386240307](http://linkedin.com/in/wint-wah-386240307)  
 - 🌐 Website: [https://shiportfolio.onrender.com](https://shiportfolio.onrender.com)
 
