@@ -14,11 +14,12 @@
 
 ---
 
-**Hackathon Participation** 
+**Achievements** 
 <ul>
   <li>HackAtom Myanmar 2024 (Nuclear Science Hackathon) - Participant</li>
   <li>Venture Base Hackathon 2025 - First Runner-Up</li>
   <li>Code2Career Hackathon 2025 - Ongoing</li>
+  <li>UCSY Project show and Job Fair 2025 - Consolation Award</li>
 </ul>
 
 ---
