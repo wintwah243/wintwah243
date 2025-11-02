@@ -1,11 +1,13 @@
-<div style="display: flex; align-items: center; gap: 15px;">
-  <h1 style="margin: 0; align-items: center;">Shi is here 🌖 <img src="https://i.pinimg.com/originals/fe/32/71/fe3271c2f92d9d098bd5a3281eb889e5.gif" width="150" alt="Coding GIF"> </h1>
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100vh; text-align: center;">
+  <h1 style="margin: 0;">Hello, I'm Wint Wah Kyaw Soe</h1>
 </div>
 
+
+
 <ul>
-  <li>I'm a software engineering student & a tech enthusiast.</li>
-  <li>📚 Currently a fourth-year CS student at UCSY.</li>
-  <li>📌 Fun Fact: I’m more attracted to people with EQ than just IQ </li>
+  <li>I'm a software engineering student & a community enthusiast.</li>
+  <li>Currently a fourth-year CS student at UCSY.</li>
+  <li>Fun Fact: I’m more attracted to people with EQ than just IQ </li>
 </ul>
 
 <!-- GitHub contribution-snake -->
@@ -16,10 +18,10 @@
 
 **Achievements** 
 <ul>
-  <li>HackAtom Myanmar 2024 (Nuclear Science Hackathon) - Participant</li>
-  <li>Venture Base Hackathon 2025 - First Runner-Up</li>
-  <li>Code2Career Hackathon 2025 - Ongoing</li>
-  <li>UCSY Project show and Job Fair 2025 - Consolation Award</li>
+  <li><strong>HackAtom Myanmar 2024 (Nuclear Science Hackathon)</strong> - Participant</li>
+  <li><strong>Venture Base Hackathon 2025</strong> - First Runner-Up (Team TrinityX)</li>
+  <li><strong>Code2Career Hackathon 2025</strong> - Ongoing</li>
+  <li><strong>UCSY Project show and Job Fair 2025</strong> - Consolation Award</li>
 </ul>
 
 ---
