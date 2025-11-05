@@ -38,7 +38,7 @@
 
 **My social links:**  
 - 📧 Email: wahwint72@gmail.com  
-- 💬 LinkedIn: [http://linkedin.com/in/wint-wah-386240307](http://linkedin.com/in/wint-wah-386240307)  
+- 💬 LinkedIn: [https://www.linkedin.com/in/wint-wah-kyaw-soe-386240307](https://www.linkedin.com/in/wint-wah-kyaw-soe-386240307/)  
 - 🌐 Website: [https://shiportfolio.onrender.com](https://shiportfolio.onrender.com)
 
 Feel free to connect or just to say hello — I'd love to connect!
