@@ -7,7 +7,6 @@
 <ul>
   <li>I'm a software engineering student & a community enthusiast.</li>
   <li>Currently a fourth-year CS student at UCSY.</li>
-  <li>Fun Fact: I’m more attracted to people with EQ than just IQ </li>
 </ul>
 
 <!-- GitHub contribution-snake -->
@@ -29,7 +28,7 @@
 **Tech Stack** 
 <ul>
   <li><strong>Languages</strong> - JavaScript, Python, Java</li>
-  <li><strong>Frameworks</strong> - React, Express.js, FastAPI, Tailwind CSS </li>
+  <li><strong>Frameworks</strong> - React, Express.js, FastAPI, Tailwind CSS, React Native </li>
   <li><strong>Databases</strong> - MySQL, MongoDB</li>
   <li><strong>Tools</strong> - Figma, Pycharm, VS code, Draw.io, Postman</li>
 </ul>
