@@ -17,10 +17,10 @@
 
 **Achievements** 
 <ul>
-  <li><strong>HackAtom Myanmar 2024 (Nuclear Science Hackathon)</strong> - Participant (Team NovaCore)</li>
-  <li><strong>Venture Base Hackathon 2025</strong> - First Runner-Up (Team TrinityX)</li>
-  <li><strong>Code2Career Hackathon 2025</strong> - First Runner-Up (Team FloodSync)</li>
-  <li><strong>UCSY Project show and Job Fair 2025</strong> - Consolation Award</li>
+  <li><strong>HackAtom Myanmar 2024 (Nuclear Science Hackathon)</strong> - Participant 🇲🇲🇷🇺 (Team NovaCore)</li>
+  <li><strong>Venture Base Hackathon 2025</strong> - 1st Runner-Up 🏆 (Team TrinityX)</li>
+  <li><strong>Code2Career Hackathon 2025</strong> - 1st Runner-Up 🏆 (Team FloodSync)</li>
+  <li><strong>UCSY Project show and Job Fair 2025</strong> - Consolation Award 🏆 </li>
 </ul>
 
 ---
