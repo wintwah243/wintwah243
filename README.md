@@ -7,6 +7,7 @@
 <ul>
   <li>I'm a software engineering student & a community enthusiast.</li>
   <li>Currently a fourth-year CS student at UCSY.</li>
+  <li>I like reading programming books, especially software engineering.</li>
 </ul>
 
 <!-- GitHub contribution-snake -->
@@ -15,15 +16,6 @@
 
 ---
 
-**Achievements** 
-<ul>
-  <li><strong>HackAtom Myanmar 2024 (Nuclear Science Hackathon)</strong> - Participant 🇲🇲🇷🇺 (Team NovaCore)</li>
-  <li><strong>Venture Base Hackathon 2025</strong> - 1st Runner-Up 🏆 (Team TrinityX)</li>
-  <li><strong>Code2Career Hackathon 2025</strong> - 1st Runner-Up 🏆 (Team FloodSync)</li>
-  <li><strong>UCSY Project show and Job Fair 2025</strong> - Consolation Award 🏆 </li>
-</ul>
-
----
 
 **Tech Stack** 
 <ul>
