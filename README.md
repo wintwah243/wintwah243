@@ -7,7 +7,7 @@
 <ul>
   <li>I'm a software engineering student & a community enthusiast.</li>
   <li>Currently a fourth-year CS student at UCSY.</li>
-  <li>First Runner-up Prize Winner of Code2Career Hackathon 2025 and Venture Base Hackathon 2025.</li>
+  <li><strong>First Runner-up Prize Winner of Code2Career Hackathon 2025 and Venture Base Hackathon 2025.</strong></li>
 </ul>
 
 <!-- GitHub contribution-snake -->
