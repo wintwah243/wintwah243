@@ -6,7 +6,7 @@
 
 <ul>
   <li>I'm a software engineering student & a community enthusiast.</li>
-  <li>Currently a fourth-year CS student at UCSY.</li>
+  <li>Currently a final year CS student at UCSY.</li>
   <li><strong>First Runner-up Prize Winner of Code2Career Hackathon 2025 and Venture Base Hackathon 2025.</strong></li>
 </ul>
 
@@ -22,7 +22,7 @@
   <li><strong>Languages</strong> - JavaScript, Python, Java</li>
   <li><strong>Frameworks</strong> - React, Express.js, FastAPI, Tailwind CSS, React Native, Django </li>
   <li><strong>Databases</strong> - MySQL, MongoDB</li>
-  <li><strong>Tools</strong> - Figma, Pycharm, VS code, Draw.io, Postman</li>
+  <li><strong>Tools</strong> - Figma, Pycharm, VS code, Draw.io, Postman, n8n</li>
 </ul>
 
 ---
