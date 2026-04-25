@@ -8,6 +8,7 @@
   <li>I'm a software engineering student & a community enthusiast.</li>
   <li>Currently a final year CS student at UCSY.</li>
   <li><strong>First Runner-up Prize Winner of Code2Career Hackathon 2025 and Venture Base Hackathon 2025.</strong></li>
+  <li><strong>Winner of AI Ready ASEAN Youth Challenge 2026 representing Myanmar.</strong></li>
 </ul>
 
 <!-- GitHub contribution-snake -->
