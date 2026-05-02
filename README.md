@@ -20,7 +20,7 @@
 
 **Tech Stack** 
 <ul>
-  <li><strong>Languages</strong> - JavaScript, Python, Java</li>
+  <li><strong>Languages</strong> - JavaScript, Python</li>
   <li><strong>Frameworks</strong> - React, Express.js, FastAPI, Tailwind CSS, React Native, Django </li>
   <li><strong>Databases</strong> - MySQL, MongoDB</li>
   <li><strong>Tools</strong> - Figma, Pycharm, VS code, Draw.io, Postman, n8n</li>
