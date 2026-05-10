@@ -1,34 +1,25 @@
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100vh; text-align: center;">
-  <h1 style="margin: 0;">Hello, I'm Wint Wah Kyaw Soe</h1>
+<div align="left">
+  <h2>
+    Hello, I'm Wint Wah Kyaw Soe 
+    <img src="https://i.pinimg.com/originals/6c/f6/92/6cf692fa5b25e0f60d7174a532b0248d.gif" width="350" style="vertical-align: middle;">
+  </h2>
 </div>
 
-
-
-<ul>
-  <li>I'm a software engineering student & a community enthusiast.</li>
-  <li>Currently a final year CS student at UCSY.</li>
-  <li><strong>First Runner-up Prize Winner of Code2Career Hackathon 2025 and Venture Base Hackathon 2025.</strong></li>
-  <li><strong>National Winner of AI Ready ASEAN Youth Challenge 2026 representing Myanmar.</strong></li>
-</ul>
-
-<!-- GitHub contribution-snake -->
-<!-- ![GitHub Snake Light](https://raw.githubusercontent.com/wintwah243/wintwah243/output/snake.svg%20dist/snake.gif) -->
-
+- Currently a final year CS student at UCSY.
+- **First Runner-up Prize Winner of Code2Career Hackathon 2025 and Venture Base Hackathon 2025.**
+- **National Winner of AI Ready ASEAN Youth Challenge 2026 representing Myanmar.**
 
 ---
-
 
 **Tech Stack** 
-<ul>
-  <li><strong>Languages</strong> - JavaScript, Python</li>
-  <li><strong>Frameworks</strong> - React, Express.js, FastAPI, Tailwind CSS, React Native, Django </li>
-  <li><strong>Databases</strong> - MySQL, MongoDB</li>
-  <li><strong>Tools</strong> - Figma, Pycharm, VS code, Draw.io, Postman, n8n</li>
-</ul>
+- **Languages** - JavaScript, Python
+- **Frameworks** - React, Express.js, FastAPI, Tailwind CSS, React Native, Django 
+- **Databases** - MySQL, MongoDB
+- **Tools** - Figma, Pycharm, VS code, Draw.io, Postman, n8n
 
 ---
 
-**My social links:**  
+**My social links:** 
 - 📧 Email: wahwint72@gmail.com  
 - 💬 LinkedIn: [https://www.linkedin.com/in/wint-wah-kyaw-soe-386240307](https://www.linkedin.com/in/wint-wah-kyaw-soe-386240307/)  
 - 🌐 Website: [https://shiportfolio.onrender.com](https://shiportfolio.onrender.com)
