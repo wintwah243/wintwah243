@@ -15,7 +15,7 @@
 - **Languages** - JavaScript, Python
 - **Frameworks** - React, Express.js, FastAPI, Tailwind CSS, React Native, Django 
 - **Databases** - MySQL, MongoDB
-- **Tools** - Figma, Pycharm, VS code, Draw.io, Postman, n8n
+- **Tools** - Git, Draw.io, Postman, n8n
 
 ---
 
