@@ -1,14 +1,14 @@
 <div align="left">
   <h2>
     Hello, I'm Wint Wah Kyaw Soe 
-    <img src="https://i.pinimg.com/originals/6c/f6/92/6cf692fa5b25e0f60d7174a532b0248d.gif" width="350" style="vertical-align: middle;">
+    <!-- <img src="https://i.pinimg.com/originals/6c/f6/92/6cf692fa5b25e0f60d7174a532b0248d.gif" width="350" style="vertical-align: middle;"> -->
   </h2>
 </div>
 
 - Currently a final year CS student at UCSY.
 - **First Runner-up Prize Winner of Code2Career Hackathon 2025 and Venture Base Hackathon 2025.**
 - **National Winner of AI Ready ASEAN Youth Challenge 2026 representing Myanmar.**
-- **3rd place Winner at AIRAYC 2026 competing against 11 ASEAN Countries**
+- **3rd place Winner at AIRAYC 2026 competing against 11 ASEAN Countries.**
 
 ---
 
