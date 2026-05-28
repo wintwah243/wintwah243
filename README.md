@@ -17,6 +17,7 @@
 - **Frameworks** - React, Express.js, FastAPI, Tailwind CSS, React Native, Django 
 - **Databases** - MySQL, MongoDB
 - **Tools** - Git, Draw.io, Postman, n8n
+- **Currently Learning** - AI agent and Automation
 
 ---
 
