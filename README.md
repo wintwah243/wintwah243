@@ -9,6 +9,7 @@
 - **First Runner-up Prize Winner of Code2Career Hackathon 2025 and Venture Base Hackathon 2025.**
 - **National Winner of AI Ready ASEAN Youth Challenge 2026 representing Myanmar.**
 - **Second Runner-up Prize Winner at AIRAYC 2026 competing against 11 ASEAN Countries.**
+- **Intern @UAB Bank & UAB Scholarship Awardee**
 
 ---
 
